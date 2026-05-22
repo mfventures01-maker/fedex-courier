@@ -1,0 +1,6 @@
+{
+  "name": "FedEx Clone",
+  "description": "A full-stack FedEx clone featuring real-time package tracking with timeline events, interactive live support chat, package estimation, client management, and extensive admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
